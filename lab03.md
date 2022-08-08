@@ -29,7 +29,7 @@ This is my first introduction to creating basic webpages and using HTML, I find 
  the 3 commonly used selectors are:
   1. id Selector - selecting all elements with an id such as 'middle_name'
   2. class Selector - select all the elements that have a certain class "xyz"
-  3. element Selector - selecting `<p>` elements
+  3. grouping Selector - selecting elements who share the same style definitions
 #### 6. Whatʼs the difference between padding and margin in CSS?
  the difference between padding and margin is that padding will be the space between an elements border and the content, while the margin is the space around the element's border. (Inside v Outside)
 #### 7. What units can you use when defining a padding? (Name at least 2.) 
