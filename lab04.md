@@ -27,4 +27,4 @@
   we don't want users to be able to view the source code and putting it in static will allow that.
 
 #### 4. What is URL encoding and why does it exist?
-  URL encoding converts characters into a format that is transmittable over the internet, which is ASCII characters. IT exists because it is easier to define encoding for all characters in ASCII and URLs can only have certain characters from the ASCII set.
+  URL encoding converts characters into a format that is transmittable over the internet, which is ASCII characters. IT exists because it is easier to define encoding for all characters in ASCII and URLs can only have certain characters from the ASCII set. Characters outside of ASCII need to be encoded anyways.
