@@ -8,7 +8,6 @@
 - main.py
 - .gitignore
 - texts in `{{}}` are rendered as variables
-- 
 
 ## Reflection: 
  I am still in the process of wrapping my head around using the different terminals and installing the different software to use, however once i keep practicing with the hands
