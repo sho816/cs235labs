@@ -8,6 +8,7 @@
 ## Reflection: 
 I found this lab quite challenging with initialising my code and accessing it.
 I am still in the process of utilising and committing my codes onto github as I do require more practice for further assignments down the line.
+Blueprint seems to be a great thing to use when dealing with large scale applications, and if there is a need to integrate multiple blueprints throughout the application.
 
 ## Questions:
  
