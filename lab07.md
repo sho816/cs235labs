@@ -20,8 +20,8 @@ the steps in which i implemented SQLite features were:
 4. check output
 
 #### So far we encountered two sessions, one is the SQLAlchemy session, another is the web session. Are they the same? If not, briefly explain what each session does.
-they're not the same as SQLAlchemy session, the session can be directly instantiated, establishes all conversations with the database
-web bessions take place in a given timeframe
+-they're not the same as SQLAlchemy session, the session can be directly instantiated, establishes all conversations with the database
+-web sessions take place in a given timeframe
 
 #### SQLite is a built-in package for Python. Why do we need SQLAlchemy ORM? Can you explain the benefits of using SQLAlchemy?
 - SQL Alchemy provies the support to many relational databases, helps facilitate communication between programs and databases
